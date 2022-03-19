@@ -1,0 +1,15 @@
+C:\Users\juamp\Documents\CURSO C#\banco\bin\Debug\net6.0\banco.exe
+C:\Users\juamp\Documents\CURSO C#\banco\bin\Debug\net6.0\banco.deps.json
+C:\Users\juamp\Documents\CURSO C#\banco\bin\Debug\net6.0\banco.runtimeconfig.json
+C:\Users\juamp\Documents\CURSO C#\banco\bin\Debug\net6.0\banco.dll
+C:\Users\juamp\Documents\CURSO C#\banco\bin\Debug\net6.0\banco.pdb
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.csproj.AssemblyReference.cache
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.AssemblyInfoInputs.cache
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.AssemblyInfo.cs
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.dll
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\refint\banco.dll
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.pdb
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\banco.genruntimeconfig.cache
+C:\Users\juamp\Documents\CURSO C#\banco\obj\Debug\net6.0\ref\banco.dll
